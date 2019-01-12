@@ -5,7 +5,7 @@ Esses exemplos, em sua maioria, são baseados nos tutorais da documentação ofi
 
 **Numba** trata-se de um compilador *just-in-time* para a linguagem Python, o qual usa como base loops, arrays e funções do **NumPy**.
 
-A sua usabilidade é bem simples e sua curva de aprendizagem pequena, pois para ativar os recursos do **Numba** basta apenas fazer de sua coleção de decoradores que ao serem aplicados em funções vão instruir como o **NUmba** deve compilá-las. A partir disso a função decorada é compilada em código de máquina, fazendo que seja notório o ganho de performace.
+A sua usabilidade é bem simples e sua curva de aprendizagem pequena, pois para ativar os recursos do **Numba** basta apenas fazer uso de sua coleção de decoradores, que ao serem aplicados em funções, vão instruir como o **Numba** deve compilá-las. A partir disso a função decorada é compilada em código de máquina, fazendo que seja notório o ganho de performace.
 
 O **Numba** exige os seguitnes pré-requisitos:
 
