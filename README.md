@@ -1,7 +1,7 @@
 # Aceleração com Numba
 
 Nesse repositório estão exemplos e dicas sobre o uso da biblioteca Numba para aceleração de scripts em Python.
-Esse exemplos, em sua maioria, são baseados nos tutorais da documentação oficial do **Numba** (a qual é excelente!). Logo, os códigos aqui presentes são uma releitura com um pouco da minha experiência pessoal com o uso dos recursos da biblioteca.
+Esses exemplos, em sua maioria, são baseados nos tutorais da documentação oficial do **Numba** (a qual é excelente!). Logo, os códigos aqui presentes são uma releitura com um pouco da minha experiência pessoal com o uso dos recursos da biblioteca.
 
 **Numba** trata-se de um compilador *just-in-time* para a linguagem Python, o qual usa como base loops, arrays e funções do **NumPy**.
 
